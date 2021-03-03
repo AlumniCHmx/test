@@ -5,7 +5,7 @@ cajas.forEach(function (element) {
 
 // IPN
 var areasArray = [
-  `<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSftRzDeTwEme9RUlgiFwi1cuVUgMFcRKsOOr3YAKiH-SfEKTA/viewform?embedded=true" width="99%" height="${window.innerHeight-25}" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>`
+  `<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdmaAqEj5U9hQ_EBXLMiOMqj5x8dEUMja15LjtgHC7uKGWboQ/viewform?embedded=true" width="99%" height="${window.innerHeight-25}" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>`
 ]
 
 function print (e) {
