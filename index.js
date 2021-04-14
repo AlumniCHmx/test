@@ -16,7 +16,7 @@ function print (e) {
 
   document.getElementById('content').style.display = 'block'
   // var exam = `pdf/Examen UAM ${tipo}.pdf`
-  let exam = `pdf/ENERO2021-${tipo}.pdf`
+  let exam = `pdf/examen-${tipo}.pdf`
   PDFObject.embed(exam, '#example1')
 
   var formulario = document.getElementById('answers')
